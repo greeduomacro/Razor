@@ -1,0 +1,3 @@
+[submodule "UltimaSDK"]
+	path = UltimaSDK
+	url = git@github.com:msturgill/ultimasdk.git
